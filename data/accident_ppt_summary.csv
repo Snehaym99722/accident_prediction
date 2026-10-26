@@ -1,0 +1,807 @@
+﻿slide,table_title,category,year,metric,value,unit
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2023,accidents_fatal,25,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2023,accidents_grievous_injury,30,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2023,accidents_minor_injury,25,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2023,accidents_no_injury,20,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2023,accidents_total,100,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2023,persons_killed,30,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2023,persons_grievous_injury,45,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2023,persons_minor_injury,38,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2023,persons_total,113,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2024,accidents_fatal,16,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2024,accidents_grievous_injury,24,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2024,accidents_minor_injury,18,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2024,accidents_no_injury,13,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2024,accidents_total,71,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2024,persons_killed,19,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2024,persons_grievous_injury,35,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2024,persons_minor_injury,27,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2024,persons_total,81,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2025,accidents_fatal,15,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2025,accidents_grievous_injury,25,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2025,accidents_minor_injury,20,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2025,accidents_no_injury,14,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2025,accidents_total,74,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2025,persons_killed,18,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2025,persons_grievous_injury,37,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2025,persons_minor_injury,30,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,2025,persons_total,85,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,Total,accidents_fatal,56,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,Total,accidents_grievous_injury,79,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,Total,accidents_minor_injury,63,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,Total,accidents_no_injury,47,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,Total,accidents_total,245,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,Total,persons_killed,67,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,Total,persons_grievous_injury,117,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,Total,persons_minor_injury,95,count
+1,Total number of Accidents Classified According to Year 2023-2025,All accidents,Total,persons_total,279,count
+2,Accidents Classified by Type and Year 2023-2025,Fatal Accidents,2023,number,25,count
+2,Accidents Classified by Type and Year 2023-2025,Fatal Accidents,2023,percent_change,,percent
+2,Accidents Classified by Type and Year 2023-2025,Fatal Accidents,2023,percent_share_in_total,25.0,percent
+2,Accidents Classified by Type and Year 2023-2025,Fatal Accidents,2024,number,16,count
+2,Accidents Classified by Type and Year 2023-2025,Fatal Accidents,2024,percent_change,-36.0,percent
+2,Accidents Classified by Type and Year 2023-2025,Fatal Accidents,2024,percent_share_in_total,22.54,percent
+2,Accidents Classified by Type and Year 2023-2025,Fatal Accidents,2025,number,15,count
+2,Accidents Classified by Type and Year 2023-2025,Fatal Accidents,2025,percent_change,-6.25,percent
+2,Accidents Classified by Type and Year 2023-2025,Fatal Accidents,2025,percent_share_in_total,20.27,percent
+2,Accidents Classified by Type and Year 2023-2025,Grievous Injury Accidents,2023,number,30,count
+2,Accidents Classified by Type and Year 2023-2025,Grievous Injury Accidents,2023,percent_change,,percent
+2,Accidents Classified by Type and Year 2023-2025,Grievous Injury Accidents,2023,percent_share_in_total,30.0,percent
+2,Accidents Classified by Type and Year 2023-2025,Grievous Injury Accidents,2024,number,24,count
+2,Accidents Classified by Type and Year 2023-2025,Grievous Injury Accidents,2024,percent_change,-20.0,percent
+2,Accidents Classified by Type and Year 2023-2025,Grievous Injury Accidents,2024,percent_share_in_total,33.8,percent
+2,Accidents Classified by Type and Year 2023-2025,Grievous Injury Accidents,2025,number,25,count
+2,Accidents Classified by Type and Year 2023-2025,Grievous Injury Accidents,2025,percent_change,4.17,percent
+2,Accidents Classified by Type and Year 2023-2025,Grievous Injury Accidents,2025,percent_share_in_total,33.78,percent
+2,Accidents Classified by Type and Year 2023-2025,Minor Injury Accidents,2023,number,25,count
+2,Accidents Classified by Type and Year 2023-2025,Minor Injury Accidents,2023,percent_change,,percent
+2,Accidents Classified by Type and Year 2023-2025,Minor Injury Accidents,2023,percent_share_in_total,25.0,percent
+2,Accidents Classified by Type and Year 2023-2025,Minor Injury Accidents,2024,number,18,count
+2,Accidents Classified by Type and Year 2023-2025,Minor Injury Accidents,2024,percent_change,-28.0,percent
+2,Accidents Classified by Type and Year 2023-2025,Minor Injury Accidents,2024,percent_share_in_total,18.31,percent
+2,Accidents Classified by Type and Year 2023-2025,Minor Injury Accidents,2025,number,20,count
+2,Accidents Classified by Type and Year 2023-2025,Minor Injury Accidents,2025,percent_change,11.11,percent
+2,Accidents Classified by Type and Year 2023-2025,Minor Injury Accidents,2025,percent_share_in_total,18.92,percent
+2,Accidents Classified by Type and Year 2023-2025,Non-Injury Accidents,2023,number,20,count
+2,Accidents Classified by Type and Year 2023-2025,Non-Injury Accidents,2023,percent_change,,percent
+2,Accidents Classified by Type and Year 2023-2025,Non-Injury Accidents,2023,percent_share_in_total,20.0,percent
+2,Accidents Classified by Type and Year 2023-2025,Non-Injury Accidents,2024,number,13,count
+2,Accidents Classified by Type and Year 2023-2025,Non-Injury Accidents,2024,percent_change,-35.0,percent
+2,Accidents Classified by Type and Year 2023-2025,Non-Injury Accidents,2024,percent_share_in_total,18.31,percent
+2,Accidents Classified by Type and Year 2023-2025,Non-Injury Accidents,2025,number,14,count
+2,Accidents Classified by Type and Year 2023-2025,Non-Injury Accidents,2025,percent_change,7.69,percent
+2,Accidents Classified by Type and Year 2023-2025,Non-Injury Accidents,2025,percent_share_in_total,18.92,percent
+2,Accidents Classified by Type and Year 2023-2025,Total,2023,number,100,count
+2,Accidents Classified by Type and Year 2023-2025,Total,2023,percent_change,,percent
+2,Accidents Classified by Type and Year 2023-2025,Total,2023,percent_share_in_total,,percent
+2,Accidents Classified by Type and Year 2023-2025,Total,2024,number,71,count
+2,Accidents Classified by Type and Year 2023-2025,Total,2024,percent_change,-29.0,percent
+2,Accidents Classified by Type and Year 2023-2025,Total,2024,percent_share_in_total,,percent
+2,Accidents Classified by Type and Year 2023-2025,Total,2025,number,74,count
+2,Accidents Classified by Type and Year 2023-2025,Total,2025,percent_change,4.23,percent
+2,Accidents Classified by Type and Year 2023-2025,Total,2025,percent_share_in_total,,percent
+3,Major Parameters of Road Accidents 2023-2025,All accidents,2023,number_of_accidents,100,count
+3,Major Parameters of Road Accidents 2023-2025,All accidents,2023,persons_killed,30,count
+3,Major Parameters of Road Accidents 2023-2025,All accidents,2023,number_of_injuries,83,count
+3,Major Parameters of Road Accidents 2023-2025,All accidents,2023,accident_severity_index,30.0,persons killed per 100 accidents
+3,Major Parameters of Road Accidents 2023-2025,All accidents,2024,number_of_accidents,71,count
+3,Major Parameters of Road Accidents 2023-2025,All accidents,2024,persons_killed,19,count
+3,Major Parameters of Road Accidents 2023-2025,All accidents,2024,number_of_injuries,62,count
+3,Major Parameters of Road Accidents 2023-2025,All accidents,2024,accident_severity_index,26.76,persons killed per 100 accidents
+3,Major Parameters of Road Accidents 2023-2025,All accidents,2025,number_of_accidents,74,count
+3,Major Parameters of Road Accidents 2023-2025,All accidents,2025,persons_killed,18,count
+3,Major Parameters of Road Accidents 2023-2025,All accidents,2025,number_of_injuries,67,count
+3,Major Parameters of Road Accidents 2023-2025,All accidents,2025,accident_severity_index,24.32,persons killed per 100 accidents
+4,Accidents Classified According to Month 2023-2025,January,2023-2025,accidents_fatal,6,count
+4,Accidents Classified According to Month 2023-2025,January,2023-2025,accidents_grievous_injury,7,count
+4,Accidents Classified According to Month 2023-2025,January,2023-2025,accidents_minor_injury,4,count
+4,Accidents Classified According to Month 2023-2025,January,2023-2025,accidents_no_injury,3,count
+4,Accidents Classified According to Month 2023-2025,January,2023-2025,accidents_total,20,count
+4,Accidents Classified According to Month 2023-2025,January,2023-2025,persons_killed,6,count
+4,Accidents Classified According to Month 2023-2025,January,2023-2025,persons_grievous_injury,9,count
+4,Accidents Classified According to Month 2023-2025,January,2023-2025,persons_minor_injury,6,count
+4,Accidents Classified According to Month 2023-2025,January,2023-2025,persons_total,21,count
+4,Accidents Classified According to Month 2023-2025,February,2023-2025,accidents_fatal,5,count
+4,Accidents Classified According to Month 2023-2025,February,2023-2025,accidents_grievous_injury,6,count
+4,Accidents Classified According to Month 2023-2025,February,2023-2025,accidents_minor_injury,4,count
+4,Accidents Classified According to Month 2023-2025,February,2023-2025,accidents_no_injury,3,count
+4,Accidents Classified According to Month 2023-2025,February,2023-2025,accidents_total,18,count
+4,Accidents Classified According to Month 2023-2025,February,2023-2025,persons_killed,5,count
+4,Accidents Classified According to Month 2023-2025,February,2023-2025,persons_grievous_injury,8,count
+4,Accidents Classified According to Month 2023-2025,February,2023-2025,persons_minor_injury,6,count
+4,Accidents Classified According to Month 2023-2025,February,2023-2025,persons_total,19,count
+4,Accidents Classified According to Month 2023-2025,March,2023-2025,accidents_fatal,5,count
+4,Accidents Classified According to Month 2023-2025,March,2023-2025,accidents_grievous_injury,7,count
+4,Accidents Classified According to Month 2023-2025,March,2023-2025,accidents_minor_injury,4,count
+4,Accidents Classified According to Month 2023-2025,March,2023-2025,accidents_no_injury,3,count
+4,Accidents Classified According to Month 2023-2025,March,2023-2025,accidents_total,19,count
+4,Accidents Classified According to Month 2023-2025,March,2023-2025,persons_killed,5,count
+4,Accidents Classified According to Month 2023-2025,March,2023-2025,persons_grievous_injury,9,count
+4,Accidents Classified According to Month 2023-2025,March,2023-2025,persons_minor_injury,6,count
+4,Accidents Classified According to Month 2023-2025,March,2023-2025,persons_total,20,count
+4,Accidents Classified According to Month 2023-2025,April,2023-2025,accidents_fatal,4,count
+4,Accidents Classified According to Month 2023-2025,April,2023-2025,accidents_grievous_injury,7,count
+4,Accidents Classified According to Month 2023-2025,April,2023-2025,accidents_minor_injury,4,count
+4,Accidents Classified According to Month 2023-2025,April,2023-2025,accidents_no_injury,2,count
+4,Accidents Classified According to Month 2023-2025,April,2023-2025,accidents_total,17,count
+4,Accidents Classified According to Month 2023-2025,April,2023-2025,persons_killed,4,count
+4,Accidents Classified According to Month 2023-2025,April,2023-2025,persons_grievous_injury,9,count
+4,Accidents Classified According to Month 2023-2025,April,2023-2025,persons_minor_injury,6,count
+4,Accidents Classified According to Month 2023-2025,April,2023-2025,persons_total,19,count
+4,Accidents Classified According to Month 2023-2025,May,2023-2025,accidents_fatal,5,count
+4,Accidents Classified According to Month 2023-2025,May,2023-2025,accidents_grievous_injury,6,count
+4,Accidents Classified According to Month 2023-2025,May,2023-2025,accidents_minor_injury,5,count
+4,Accidents Classified According to Month 2023-2025,May,2023-2025,accidents_no_injury,3,count
+4,Accidents Classified According to Month 2023-2025,May,2023-2025,accidents_total,19,count
+4,Accidents Classified According to Month 2023-2025,May,2023-2025,persons_killed,5,count
+4,Accidents Classified According to Month 2023-2025,May,2023-2025,persons_grievous_injury,8,count
+4,Accidents Classified According to Month 2023-2025,May,2023-2025,persons_minor_injury,7,count
+4,Accidents Classified According to Month 2023-2025,May,2023-2025,persons_total,20,count
+4,Accidents Classified According to Month 2023-2025,June,2023-2025,accidents_fatal,4,count
+4,Accidents Classified According to Month 2023-2025,June,2023-2025,accidents_grievous_injury,5,count
+4,Accidents Classified According to Month 2023-2025,June,2023-2025,accidents_minor_injury,4,count
+4,Accidents Classified According to Month 2023-2025,June,2023-2025,accidents_no_injury,3,count
+4,Accidents Classified According to Month 2023-2025,June,2023-2025,accidents_total,16,count
+4,Accidents Classified According to Month 2023-2025,June,2023-2025,persons_killed,4,count
+4,Accidents Classified According to Month 2023-2025,June,2023-2025,persons_grievous_injury,7,count
+4,Accidents Classified According to Month 2023-2025,June,2023-2025,persons_minor_injury,6,count
+4,Accidents Classified According to Month 2023-2025,June,2023-2025,persons_total,17,count
+4,Accidents Classified According to Month 2023-2025,July,2023-2025,accidents_fatal,5,count
+4,Accidents Classified According to Month 2023-2025,July,2023-2025,accidents_grievous_injury,7,count
+4,Accidents Classified According to Month 2023-2025,July,2023-2025,accidents_minor_injury,4,count
+4,Accidents Classified According to Month 2023-2025,July,2023-2025,accidents_no_injury,3,count
+4,Accidents Classified According to Month 2023-2025,July,2023-2025,accidents_total,19,count
+4,Accidents Classified According to Month 2023-2025,July,2023-2025,persons_killed,5,count
+4,Accidents Classified According to Month 2023-2025,July,2023-2025,persons_grievous_injury,9,count
+4,Accidents Classified According to Month 2023-2025,July,2023-2025,persons_minor_injury,6,count
+4,Accidents Classified According to Month 2023-2025,July,2023-2025,persons_total,20,count
+4,Accidents Classified According to Month 2023-2025,August,2023-2025,accidents_fatal,4,count
+4,Accidents Classified According to Month 2023-2025,August,2023-2025,accidents_grievous_injury,7,count
+4,Accidents Classified According to Month 2023-2025,August,2023-2025,accidents_minor_injury,4,count
+4,Accidents Classified According to Month 2023-2025,August,2023-2025,accidents_no_injury,2,count
+4,Accidents Classified According to Month 2023-2025,August,2023-2025,accidents_total,17,count
+4,Accidents Classified According to Month 2023-2025,August,2023-2025,persons_killed,4,count
+4,Accidents Classified According to Month 2023-2025,August,2023-2025,persons_grievous_injury,9,count
+4,Accidents Classified According to Month 2023-2025,August,2023-2025,persons_minor_injury,6,count
+4,Accidents Classified According to Month 2023-2025,August,2023-2025,persons_total,19,count
+4,Accidents Classified According to Month 2023-2025,September,2023-2025,accidents_fatal,6,count
+4,Accidents Classified According to Month 2023-2025,September,2023-2025,accidents_grievous_injury,7,count
+4,Accidents Classified According to Month 2023-2025,September,2023-2025,accidents_minor_injury,4,count
+4,Accidents Classified According to Month 2023-2025,September,2023-2025,accidents_no_injury,2,count
+4,Accidents Classified According to Month 2023-2025,September,2023-2025,accidents_total,19,count
+4,Accidents Classified According to Month 2023-2025,September,2023-2025,persons_killed,6,count
+4,Accidents Classified According to Month 2023-2025,September,2023-2025,persons_grievous_injury,9,count
+4,Accidents Classified According to Month 2023-2025,September,2023-2025,persons_minor_injury,6,count
+4,Accidents Classified According to Month 2023-2025,September,2023-2025,persons_total,21,count
+4,Accidents Classified According to Month 2023-2025,October,2023-2025,accidents_fatal,4,count
+4,Accidents Classified According to Month 2023-2025,October,2023-2025,accidents_grievous_injury,7,count
+4,Accidents Classified According to Month 2023-2025,October,2023-2025,accidents_minor_injury,4,count
+4,Accidents Classified According to Month 2023-2025,October,2023-2025,accidents_no_injury,2,count
+4,Accidents Classified According to Month 2023-2025,October,2023-2025,accidents_total,17,count
+4,Accidents Classified According to Month 2023-2025,October,2023-2025,persons_killed,4,count
+4,Accidents Classified According to Month 2023-2025,October,2023-2025,persons_grievous_injury,9,count
+4,Accidents Classified According to Month 2023-2025,October,2023-2025,persons_minor_injury,6,count
+4,Accidents Classified According to Month 2023-2025,October,2023-2025,persons_total,19,count
+4,Accidents Classified According to Month 2023-2025,November,2023-2025,accidents_fatal,7,count
+4,Accidents Classified According to Month 2023-2025,November,2023-2025,accidents_grievous_injury,7,count
+4,Accidents Classified According to Month 2023-2025,November,2023-2025,accidents_minor_injury,5,count
+4,Accidents Classified According to Month 2023-2025,November,2023-2025,accidents_no_injury,3,count
+4,Accidents Classified According to Month 2023-2025,November,2023-2025,accidents_total,22,count
+4,Accidents Classified According to Month 2023-2025,November,2023-2025,persons_killed,7,count
+4,Accidents Classified According to Month 2023-2025,November,2023-2025,persons_grievous_injury,9,count
+4,Accidents Classified According to Month 2023-2025,November,2023-2025,persons_minor_injury,7,count
+4,Accidents Classified According to Month 2023-2025,November,2023-2025,persons_total,23,count
+4,Accidents Classified According to Month 2023-2025,December,2023-2025,accidents_fatal,5,count
+4,Accidents Classified According to Month 2023-2025,December,2023-2025,accidents_grievous_injury,7,count
+4,Accidents Classified According to Month 2023-2025,December,2023-2025,accidents_minor_injury,4,count
+4,Accidents Classified According to Month 2023-2025,December,2023-2025,accidents_no_injury,6,count
+4,Accidents Classified According to Month 2023-2025,December,2023-2025,accidents_total,22,count
+4,Accidents Classified According to Month 2023-2025,December,2023-2025,persons_killed,5,count
+4,Accidents Classified According to Month 2023-2025,December,2023-2025,persons_grievous_injury,9,count
+4,Accidents Classified According to Month 2023-2025,December,2023-2025,persons_minor_injury,6,count
+4,Accidents Classified According to Month 2023-2025,December,2023-2025,persons_total,21,count
+4,Accidents Classified According to Month 2023-2025,Total,2023-2025,accidents_fatal,60,count
+4,Accidents Classified According to Month 2023-2025,Total,2023-2025,accidents_grievous_injury,80,count
+4,Accidents Classified According to Month 2023-2025,Total,2023-2025,accidents_minor_injury,50,count
+4,Accidents Classified According to Month 2023-2025,Total,2023-2025,accidents_no_injury,35,count
+4,Accidents Classified According to Month 2023-2025,Total,2023-2025,accidents_total,245,count
+4,Accidents Classified According to Month 2023-2025,Total,2023-2025,persons_killed,60,count
+4,Accidents Classified According to Month 2023-2025,Total,2023-2025,persons_grievous_injury,104,count
+4,Accidents Classified According to Month 2023-2025,Total,2023-2025,persons_minor_injury,74,count
+4,Accidents Classified According to Month 2023-2025,Total,2023-2025,persons_total,279,count
+5,Accidents Classified According to Weather Season 2023-2025,Winter (Dec to Feb),2023-2025,accidents_fatal,13,count
+5,Accidents Classified According to Weather Season 2023-2025,Winter (Dec to Feb),2023-2025,accidents_grievous_injury,20,count
+5,Accidents Classified According to Weather Season 2023-2025,Winter (Dec to Feb),2023-2025,accidents_minor_injury,17,count
+5,Accidents Classified According to Weather Season 2023-2025,Winter (Dec to Feb),2023-2025,accidents_no_injury,12,count
+5,Accidents Classified According to Weather Season 2023-2025,Winter (Dec to Feb),2023-2025,accidents_total,62,count
+5,Accidents Classified According to Weather Season 2023-2025,Winter (Dec to Feb),2023-2025,persons_killed,17,count
+5,Accidents Classified According to Weather Season 2023-2025,Winter (Dec to Feb),2023-2025,persons_grievous_injury,29,count
+5,Accidents Classified According to Weather Season 2023-2025,Winter (Dec to Feb),2023-2025,persons_minor_injury,25,count
+5,Accidents Classified According to Weather Season 2023-2025,Winter (Dec to Feb),2023-2025,persons_total,71,count
+5,Accidents Classified According to Weather Season 2023-2025,Summer (Mar to May),2023-2025,accidents_fatal,12,count
+5,Accidents Classified According to Weather Season 2023-2025,Summer (Mar to May),2023-2025,accidents_grievous_injury,19,count
+5,Accidents Classified According to Weather Season 2023-2025,Summer (Mar to May),2023-2025,accidents_minor_injury,15,count
+5,Accidents Classified According to Weather Season 2023-2025,Summer (Mar to May),2023-2025,accidents_no_injury,12,count
+5,Accidents Classified According to Weather Season 2023-2025,Summer (Mar to May),2023-2025,accidents_total,58,count
+5,Accidents Classified According to Weather Season 2023-2025,Summer (Mar to May),2023-2025,persons_killed,14,count
+5,Accidents Classified According to Weather Season 2023-2025,Summer (Mar to May),2023-2025,persons_grievous_injury,29,count
+5,Accidents Classified According to Weather Season 2023-2025,Summer (Mar to May),2023-2025,persons_minor_injury,21,count
+5,Accidents Classified According to Weather Season 2023-2025,Summer (Mar to May),2023-2025,persons_total,64,count
+5,Accidents Classified According to Weather Season 2023-2025,Monsoon (Jun to Sep),2023-2025,accidents_fatal,20,count
+5,Accidents Classified According to Weather Season 2023-2025,Monsoon (Jun to Sep),2023-2025,accidents_grievous_injury,26,count
+5,Accidents Classified According to Weather Season 2023-2025,Monsoon (Jun to Sep),2023-2025,accidents_minor_injury,19,count
+5,Accidents Classified According to Weather Season 2023-2025,Monsoon (Jun to Sep),2023-2025,accidents_no_injury,15,count
+5,Accidents Classified According to Weather Season 2023-2025,Monsoon (Jun to Sep),2023-2025,accidents_total,80,count
+5,Accidents Classified According to Weather Season 2023-2025,Monsoon (Jun to Sep),2023-2025,persons_killed,22,count
+5,Accidents Classified According to Weather Season 2023-2025,Monsoon (Jun to Sep),2023-2025,persons_grievous_injury,38,count
+5,Accidents Classified According to Weather Season 2023-2025,Monsoon (Jun to Sep),2023-2025,persons_minor_injury,29,count
+5,Accidents Classified According to Weather Season 2023-2025,Monsoon (Jun to Sep),2023-2025,persons_total,89,count
+5,Accidents Classified According to Weather Season 2023-2025,Autumn (Oct to Nov),2023-2025,accidents_fatal,11,count
+5,Accidents Classified According to Weather Season 2023-2025,Autumn (Oct to Nov),2023-2025,accidents_grievous_injury,14,count
+5,Accidents Classified According to Weather Season 2023-2025,Autumn (Oct to Nov),2023-2025,accidents_minor_injury,12,count
+5,Accidents Classified According to Weather Season 2023-2025,Autumn (Oct to Nov),2023-2025,accidents_no_injury,8,count
+5,Accidents Classified According to Weather Season 2023-2025,Autumn (Oct to Nov),2023-2025,accidents_total,45,count
+5,Accidents Classified According to Weather Season 2023-2025,Autumn (Oct to Nov),2023-2025,persons_killed,14,count
+5,Accidents Classified According to Weather Season 2023-2025,Autumn (Oct to Nov),2023-2025,persons_grievous_injury,21,count
+5,Accidents Classified According to Weather Season 2023-2025,Autumn (Oct to Nov),2023-2025,persons_minor_injury,20,count
+5,Accidents Classified According to Weather Season 2023-2025,Autumn (Oct to Nov),2023-2025,persons_total,55,count
+5,Accidents Classified According to Weather Season 2023-2025,Total,2023-2025,accidents_fatal,56,count
+5,Accidents Classified According to Weather Season 2023-2025,Total,2023-2025,accidents_grievous_injury,79,count
+5,Accidents Classified According to Weather Season 2023-2025,Total,2023-2025,accidents_minor_injury,63,count
+5,Accidents Classified According to Weather Season 2023-2025,Total,2023-2025,accidents_no_injury,47,count
+5,Accidents Classified According to Weather Season 2023-2025,Total,2023-2025,accidents_total,245,count
+5,Accidents Classified According to Weather Season 2023-2025,Total,2023-2025,persons_killed,67,count
+5,Accidents Classified According to Weather Season 2023-2025,Total,2023-2025,persons_grievous_injury,117,count
+5,Accidents Classified According to Weather Season 2023-2025,Total,2023-2025,persons_minor_injury,95,count
+5,Accidents Classified According to Weather Season 2023-2025,Total,2023-2025,persons_total,279,count
+6,Accidents Classified According to Time of Day 2023-2025,00:00-06:00,2023-2025,accidents_fatal,12,count
+6,Accidents Classified According to Time of Day 2023-2025,00:00-06:00,2023-2025,accidents_grievous_injury,18,count
+6,Accidents Classified According to Time of Day 2023-2025,00:00-06:00,2023-2025,accidents_minor_injury,15,count
+6,Accidents Classified According to Time of Day 2023-2025,00:00-06:00,2023-2025,accidents_no_injury,10,count
+6,Accidents Classified According to Time of Day 2023-2025,00:00-06:00,2023-2025,accidents_total,55,count
+6,Accidents Classified According to Time of Day 2023-2025,00:00-06:00,2023-2025,persons_killed,14,count
+6,Accidents Classified According to Time of Day 2023-2025,00:00-06:00,2023-2025,persons_grievous_injury,27,count
+6,Accidents Classified According to Time of Day 2023-2025,00:00-06:00,2023-2025,persons_minor_injury,22,count
+6,Accidents Classified According to Time of Day 2023-2025,00:00-06:00,2023-2025,persons_total,63,count
+6,Accidents Classified According to Time of Day 2023-2025,06:00-12:00,2023-2025,accidents_fatal,14,count
+6,Accidents Classified According to Time of Day 2023-2025,06:00-12:00,2023-2025,accidents_grievous_injury,21,count
+6,Accidents Classified According to Time of Day 2023-2025,06:00-12:00,2023-2025,accidents_minor_injury,17,count
+6,Accidents Classified According to Time of Day 2023-2025,06:00-12:00,2023-2025,accidents_no_injury,12,count
+6,Accidents Classified According to Time of Day 2023-2025,06:00-12:00,2023-2025,accidents_total,64,count
+6,Accidents Classified According to Time of Day 2023-2025,06:00-12:00,2023-2025,persons_killed,16,count
+6,Accidents Classified According to Time of Day 2023-2025,06:00-12:00,2023-2025,persons_grievous_injury,31,count
+6,Accidents Classified According to Time of Day 2023-2025,06:00-12:00,2023-2025,persons_minor_injury,25,count
+6,Accidents Classified According to Time of Day 2023-2025,06:00-12:00,2023-2025,persons_total,72,count
+6,Accidents Classified According to Time of Day 2023-2025,12:00-18:00,2023-2025,accidents_fatal,17,count
+6,Accidents Classified According to Time of Day 2023-2025,12:00-18:00,2023-2025,accidents_grievous_injury,24,count
+6,Accidents Classified According to Time of Day 2023-2025,12:00-18:00,2023-2025,accidents_minor_injury,19,count
+6,Accidents Classified According to Time of Day 2023-2025,12:00-18:00,2023-2025,accidents_no_injury,14,count
+6,Accidents Classified According to Time of Day 2023-2025,12:00-18:00,2023-2025,accidents_total,74,count
+6,Accidents Classified According to Time of Day 2023-2025,12:00-18:00,2023-2025,persons_killed,21,count
+6,Accidents Classified According to Time of Day 2023-2025,12:00-18:00,2023-2025,persons_grievous_injury,36,count
+6,Accidents Classified According to Time of Day 2023-2025,12:00-18:00,2023-2025,persons_minor_injury,29,count
+6,Accidents Classified According to Time of Day 2023-2025,12:00-18:00,2023-2025,persons_total,86,count
+6,Accidents Classified According to Time of Day 2023-2025,18:00-00:00,2023-2025,accidents_fatal,13,count
+6,Accidents Classified According to Time of Day 2023-2025,18:00-00:00,2023-2025,accidents_grievous_injury,16,count
+6,Accidents Classified According to Time of Day 2023-2025,18:00-00:00,2023-2025,accidents_minor_injury,12,count
+6,Accidents Classified According to Time of Day 2023-2025,18:00-00:00,2023-2025,accidents_no_injury,11,count
+6,Accidents Classified According to Time of Day 2023-2025,18:00-00:00,2023-2025,accidents_total,52,count
+6,Accidents Classified According to Time of Day 2023-2025,18:00-00:00,2023-2025,persons_killed,16,count
+6,Accidents Classified According to Time of Day 2023-2025,18:00-00:00,2023-2025,persons_grievous_injury,23,count
+6,Accidents Classified According to Time of Day 2023-2025,18:00-00:00,2023-2025,persons_minor_injury,19,count
+6,Accidents Classified According to Time of Day 2023-2025,18:00-00:00,2023-2025,persons_total,58,count
+6,Accidents Classified According to Time of Day 2023-2025,Total,2023-2025,accidents_fatal,56,count
+6,Accidents Classified According to Time of Day 2023-2025,Total,2023-2025,accidents_grievous_injury,79,count
+6,Accidents Classified According to Time of Day 2023-2025,Total,2023-2025,accidents_minor_injury,63,count
+6,Accidents Classified According to Time of Day 2023-2025,Total,2023-2025,accidents_no_injury,47,count
+6,Accidents Classified According to Time of Day 2023-2025,Total,2023-2025,accidents_total,245,count
+6,Accidents Classified According to Time of Day 2023-2025,Total,2023-2025,persons_killed,67,count
+6,Accidents Classified According to Time of Day 2023-2025,Total,2023-2025,persons_grievous_injury,117,count
+6,Accidents Classified According to Time of Day 2023-2025,Total,2023-2025,persons_minor_injury,95,count
+6,Accidents Classified According to Time of Day 2023-2025,Total,2023-2025,persons_total,279,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Vehicle,2023-2025,accidents_fatal,28,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Vehicle,2023-2025,accidents_grievous_injury,50,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Vehicle,2023-2025,accidents_minor_injury,40,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Vehicle,2023-2025,accidents_no_injury,22,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Vehicle,2023-2025,accidents_total,140,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Vehicle,2023-2025,persons_killed,35,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Vehicle,2023-2025,persons_grievous_injury,75,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Vehicle,2023-2025,persons_minor_injury,55,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Vehicle,2023-2025,persons_total,165,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Pedestrian,2023-2025,accidents_fatal,18,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Pedestrian,2023-2025,accidents_grievous_injury,16,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Pedestrian,2023-2025,accidents_minor_injury,12,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Pedestrian,2023-2025,accidents_no_injury,9,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Pedestrian,2023-2025,accidents_total,55,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Pedestrian,2023-2025,persons_killed,22,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Pedestrian,2023-2025,persons_grievous_injury,25,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Pedestrian,2023-2025,persons_minor_injury,20,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Pedestrian,2023-2025,persons_total,67,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Bicycle/others,2023-2025,accidents_fatal,6,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Bicycle/others,2023-2025,accidents_grievous_injury,9,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Bicycle/others,2023-2025,accidents_minor_injury,8,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Bicycle/others,2023-2025,accidents_no_injury,12,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Bicycle/others,2023-2025,accidents_total,35,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Bicycle/others,2023-2025,persons_killed,7,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Bicycle/others,2023-2025,persons_grievous_injury,12,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Bicycle/others,2023-2025,persons_minor_injury,10,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Bicycle/others,2023-2025,persons_total,29,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Animal,2023-2025,accidents_fatal,4,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Animal,2023-2025,accidents_grievous_injury,4,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Animal,2023-2025,accidents_minor_injury,3,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Animal,2023-2025,accidents_no_injury,4,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Animal,2023-2025,accidents_total,15,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Animal,2023-2025,persons_killed,3,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Animal,2023-2025,persons_grievous_injury,5,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Animal,2023-2025,persons_minor_injury,10,count
+7,Accidents Classified According to Type of Collision 2023-2025,Vehicle to Animal,2023-2025,persons_total,18,count
+7,Accidents Classified According to Type of Collision 2023-2025,Total,2023-2025,accidents_fatal,56,count
+7,Accidents Classified According to Type of Collision 2023-2025,Total,2023-2025,accidents_grievous_injury,79,count
+7,Accidents Classified According to Type of Collision 2023-2025,Total,2023-2025,accidents_minor_injury,63,count
+7,Accidents Classified According to Type of Collision 2023-2025,Total,2023-2025,accidents_no_injury,47,count
+7,Accidents Classified According to Type of Collision 2023-2025,Total,2023-2025,accidents_total,245,count
+7,Accidents Classified According to Type of Collision 2023-2025,Total,2023-2025,persons_killed,67,count
+7,Accidents Classified According to Type of Collision 2023-2025,Total,2023-2025,persons_grievous_injury,117,count
+7,Accidents Classified According to Type of Collision 2023-2025,Total,2023-2025,persons_minor_injury,95,count
+7,Accidents Classified According to Type of Collision 2023-2025,Total,2023-2025,persons_total,279,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit and Run,2023-2025,accidents_fatal,8,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit and Run,2023-2025,accidents_grievous_injury,10,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit and Run,2023-2025,accidents_minor_injury,8,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit and Run,2023-2025,accidents_no_injury,5,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit and Run,2023-2025,accidents_total,31,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit and Run,2023-2025,persons_killed,10,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit and Run,2023-2025,persons_grievous_injury,14,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit and Run,2023-2025,persons_minor_injury,10,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit and Run,2023-2025,persons_total,34,count
+8,Accidents Classified According to Nature of Accident 2023-2025,With Parked Vehicle,2023-2025,accidents_fatal,4,count
+8,Accidents Classified According to Nature of Accident 2023-2025,With Parked Vehicle,2023-2025,accidents_grievous_injury,5,count
+8,Accidents Classified According to Nature of Accident 2023-2025,With Parked Vehicle,2023-2025,accidents_minor_injury,4,count
+8,Accidents Classified According to Nature of Accident 2023-2025,With Parked Vehicle,2023-2025,accidents_no_injury,3,count
+8,Accidents Classified According to Nature of Accident 2023-2025,With Parked Vehicle,2023-2025,accidents_total,16,count
+8,Accidents Classified According to Nature of Accident 2023-2025,With Parked Vehicle,2023-2025,persons_killed,4,count
+8,Accidents Classified According to Nature of Accident 2023-2025,With Parked Vehicle,2023-2025,persons_grievous_injury,7,count
+8,Accidents Classified According to Nature of Accident 2023-2025,With Parked Vehicle,2023-2025,persons_minor_injury,6,count
+8,Accidents Classified According to Nature of Accident 2023-2025,With Parked Vehicle,2023-2025,persons_total,17,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit from Back,2023-2025,accidents_fatal,14,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit from Back,2023-2025,accidents_grievous_injury,18,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit from Back,2023-2025,accidents_minor_injury,14,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit from Back,2023-2025,accidents_no_injury,10,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit from Back,2023-2025,accidents_total,56,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit from Back,2023-2025,persons_killed,16,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit from Back,2023-2025,persons_grievous_injury,28,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit from Back,2023-2025,persons_minor_injury,20,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit from Back,2023-2025,persons_total,64,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit from Side,2023-2025,accidents_fatal,10,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit from Side,2023-2025,accidents_grievous_injury,15,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit from Side,2023-2025,accidents_minor_injury,12,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit from Side,2023-2025,accidents_no_injury,8,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit from Side,2023-2025,accidents_total,45,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit from Side,2023-2025,persons_killed,12,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit from Side,2023-2025,persons_grievous_injury,21,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit from Side,2023-2025,persons_minor_injury,17,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Hit from Side,2023-2025,persons_total,50,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Run Off-road,2023-2025,accidents_fatal,6,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Run Off-road,2023-2025,accidents_grievous_injury,9,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Run Off-road,2023-2025,accidents_minor_injury,7,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Run Off-road,2023-2025,accidents_no_injury,6,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Run Off-road,2023-2025,accidents_total,28,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Run Off-road,2023-2025,persons_killed,7,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Run Off-road,2023-2025,persons_grievous_injury,13,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Run Off-road,2023-2025,persons_minor_injury,10,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Run Off-road,2023-2025,persons_total,30,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Fixed Object,2023-2025,accidents_fatal,4,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Fixed Object,2023-2025,accidents_grievous_injury,6,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Fixed Object,2023-2025,accidents_minor_injury,5,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Fixed Object,2023-2025,accidents_no_injury,4,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Fixed Object,2023-2025,accidents_total,19,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Fixed Object,2023-2025,persons_killed,5,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Fixed Object,2023-2025,persons_grievous_injury,9,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Fixed Object,2023-2025,persons_minor_injury,7,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Fixed Object,2023-2025,persons_total,21,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Vehicle Overturned,2023-2025,accidents_fatal,3,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Vehicle Overturned,2023-2025,accidents_grievous_injury,4,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Vehicle Overturned,2023-2025,accidents_minor_injury,3,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Vehicle Overturned,2023-2025,accidents_no_injury,3,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Vehicle Overturned,2023-2025,accidents_total,13,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Vehicle Overturned,2023-2025,persons_killed,3,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Vehicle Overturned,2023-2025,persons_grievous_injury,6,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Vehicle Overturned,2023-2025,persons_minor_injury,5,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Vehicle Overturned,2023-2025,persons_total,14,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Head-on Collision,2023-2025,accidents_fatal,5,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Head-on Collision,2023-2025,accidents_grievous_injury,8,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Head-on Collision,2023-2025,accidents_minor_injury,6,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Head-on Collision,2023-2025,accidents_no_injury,5,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Head-on Collision,2023-2025,accidents_total,24,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Head-on Collision,2023-2025,persons_killed,7,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Head-on Collision,2023-2025,persons_grievous_injury,12,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Head-on Collision,2023-2025,persons_minor_injury,12,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Head-on Collision,2023-2025,persons_total,31,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Others,2023-2025,accidents_fatal,2,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Others,2023-2025,accidents_grievous_injury,4,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Others,2023-2025,accidents_minor_injury,4,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Others,2023-2025,accidents_no_injury,3,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Others,2023-2025,accidents_total,13,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Others,2023-2025,persons_killed,3,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Others,2023-2025,persons_grievous_injury,7,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Others,2023-2025,persons_minor_injury,8,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Others,2023-2025,persons_total,18,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Total,2023-2025,accidents_fatal,56,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Total,2023-2025,accidents_grievous_injury,79,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Total,2023-2025,accidents_minor_injury,63,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Total,2023-2025,accidents_no_injury,47,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Total,2023-2025,accidents_total,245,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Total,2023-2025,persons_killed,67,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Total,2023-2025,persons_grievous_injury,117,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Total,2023-2025,persons_minor_injury,95,count
+8,Accidents Classified According to Nature of Accident 2023-2025,Total,2023-2025,persons_total,279,count
+9,Accidents Classified According to Nature of Accident 2023-2025,No table data shown,,slide_note,Title only; no table data present,text
+10,Accidents Classified According to Traffic Violations 2023-2025,Over Speeding,2023-2025,accidents_fatal,18,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Over Speeding,2023-2025,accidents_grievous_injury,28,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Over Speeding,2023-2025,accidents_minor_injury,22,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Over Speeding,2023-2025,accidents_no_injury,14,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Over Speeding,2023-2025,accidents_total,82,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Over Speeding,2023-2025,persons_killed,20,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Over Speeding,2023-2025,persons_grievous_injury,40,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Over Speeding,2023-2025,persons_minor_injury,30,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Over Speeding,2023-2025,persons_total,90,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Drunken Driving/Consumption of Alcohol & Drug,2023-2025,accidents_fatal,5,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Drunken Driving/Consumption of Alcohol & Drug,2023-2025,accidents_grievous_injury,7,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Drunken Driving/Consumption of Alcohol & Drug,2023-2025,accidents_minor_injury,5,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Drunken Driving/Consumption of Alcohol & Drug,2023-2025,accidents_no_injury,2,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Drunken Driving/Consumption of Alcohol & Drug,2023-2025,accidents_total,19,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Drunken Driving/Consumption of Alcohol & Drug,2023-2025,persons_killed,6,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Drunken Driving/Consumption of Alcohol & Drug,2023-2025,persons_grievous_injury,11,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Drunken Driving/Consumption of Alcohol & Drug,2023-2025,persons_minor_injury,7,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Drunken Driving/Consumption of Alcohol & Drug,2023-2025,persons_total,24,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Driving on Wrong Side,2023-2025,accidents_fatal,8,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Driving on Wrong Side,2023-2025,accidents_grievous_injury,10,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Driving on Wrong Side,2023-2025,accidents_minor_injury,7,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Driving on Wrong Side,2023-2025,accidents_no_injury,4,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Driving on Wrong Side,2023-2025,accidents_total,29,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Driving on Wrong Side,2023-2025,persons_killed,10,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Driving on Wrong Side,2023-2025,persons_grievous_injury,15,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Driving on Wrong Side,2023-2025,persons_minor_injury,8,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Driving on Wrong Side,2023-2025,persons_total,33,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Carelessness,2023-2025,accidents_fatal,17,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Carelessness,2023-2025,accidents_grievous_injury,25,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Carelessness,2023-2025,accidents_minor_injury,20,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Carelessness,2023-2025,accidents_no_injury,17,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Carelessness,2023-2025,accidents_total,79,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Carelessness,2023-2025,persons_killed,18,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Carelessness,2023-2025,persons_grievous_injury,39,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Carelessness,2023-2025,persons_minor_injury,30,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Carelessness,2023-2025,persons_total,87,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Use of Mobile Phone,2023-2025,accidents_fatal,2,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Use of Mobile Phone,2023-2025,accidents_grievous_injury,3,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Use of Mobile Phone,2023-2025,accidents_minor_injury,3,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Use of Mobile Phone,2023-2025,accidents_no_injury,2,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Use of Mobile Phone,2023-2025,accidents_total,10,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Use of Mobile Phone,2023-2025,persons_killed,2,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Use of Mobile Phone,2023-2025,persons_grievous_injury,5,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Use of Mobile Phone,2023-2025,persons_minor_injury,4,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Use of Mobile Phone,2023-2025,persons_total,11,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Not Known,2023-2025,accidents_fatal,6,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Not Known,2023-2025,accidents_grievous_injury,6,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Not Known,2023-2025,accidents_minor_injury,6,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Not Known,2023-2025,accidents_no_injury,8,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Not Known,2023-2025,accidents_total,26,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Not Known,2023-2025,persons_killed,7,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Not Known,2023-2025,persons_grievous_injury,10,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Not Known,2023-2025,persons_minor_injury,17,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Not Known,2023-2025,persons_total,34,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Total,2023-2025,accidents_fatal,56,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Total,2023-2025,accidents_grievous_injury,79,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Total,2023-2025,accidents_minor_injury,63,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Total,2023-2025,accidents_no_injury,47,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Total,2023-2025,accidents_total,245,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Total,2023-2025,persons_killed,63,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Total,2023-2025,persons_grievous_injury,120,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Total,2023-2025,persons_minor_injury,96,count
+10,Accidents Classified According to Traffic Violations 2023-2025,Total,2023-2025,persons_total,279,count
+11,No table title or data shown,No table data shown,,slide_note,Blank slide,text
+12,Persons Killed According to Age and Sex 2023-2025,Under 18,2023-2025,male_2023,1,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,Under 18,2023-2025,female_2023,1,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,Under 18,2023-2025,male_2024,1,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,Under 18,2023-2025,female_2024,0,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,Under 18,2023-2025,male_2025,1,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,Under 18,2023-2025,female_2025,1,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,Under 18,2023-2025,male_2023_2025,3,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,Under 18,2023-2025,female_2023_2025,2,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,Under 18,2023-2025,total_2023_2025,5,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,18-45 years,2023-2025,male_2023,14,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,18-45 years,2023-2025,female_2023,3,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,18-45 years,2023-2025,male_2024,11,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,18-45 years,2023-2025,female_2024,3,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,18-45 years,2023-2025,male_2025,10,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,18-45 years,2023-2025,female_2025,2,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,18-45 years,2023-2025,male_2023_2025,35,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,18-45 years,2023-2025,female_2023_2025,8,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,18-45 years,2023-2025,total_2023_2025,43,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,45-60 years,2023-2025,male_2023,5,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,45-60 years,2023-2025,female_2023,1,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,45-60 years,2023-2025,male_2024,3,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,45-60 years,2023-2025,female_2024,1,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,45-60 years,2023-2025,male_2025,3,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,45-60 years,2023-2025,female_2025,1,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,45-60 years,2023-2025,male_2023_2025,11,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,45-60 years,2023-2025,female_2023_2025,3,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,45-60 years,2023-2025,total_2023_2025,14,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,60 years and above,2023-2025,male_2023,1,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,60 years and above,2023-2025,female_2023,0,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,60 years and above,2023-2025,male_2024,1,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,60 years and above,2023-2025,female_2024,0,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,60 years and above,2023-2025,male_2025,0,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,60 years and above,2023-2025,female_2025,0,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,60 years and above,2023-2025,male_2023_2025,2,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,60 years and above,2023-2025,female_2023_2025,0,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,60 years and above,2023-2025,total_2023_2025,2,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,Total,2023-2025,male_2023,21,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,Total,2023-2025,female_2023,5,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,Total,2023-2025,male_2024,16,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,Total,2023-2025,female_2024,4,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,Total,2023-2025,male_2025,14,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,Total,2023-2025,female_2025,4,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,Total,2023-2025,male_2023_2025,51,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,Total,2023-2025,female_2023_2025,13,persons killed
+12,Persons Killed According to Age and Sex 2023-2025,Total,2023-2025,total_2023_2025,64,persons killed
+13,Accidents Classified According to Road Direction 2023-2025,RHS (towards HYD),2023-2025,accidents_fatal,32,count
+13,Accidents Classified According to Road Direction 2023-2025,RHS (towards HYD),2023-2025,accidents_grievous_injury,44,count
+13,Accidents Classified According to Road Direction 2023-2025,RHS (towards HYD),2023-2025,accidents_minor_injury,36,count
+13,Accidents Classified According to Road Direction 2023-2025,RHS (towards HYD),2023-2025,accidents_no_injury,28,count
+13,Accidents Classified According to Road Direction 2023-2025,RHS (towards HYD),2023-2025,accidents_total,140,count
+13,Accidents Classified According to Road Direction 2023-2025,RHS (towards HYD),2023-2025,persons_killed,34,count
+13,Accidents Classified According to Road Direction 2023-2025,RHS (towards HYD),2023-2025,persons_grievous_injury,68,count
+13,Accidents Classified According to Road Direction 2023-2025,RHS (towards HYD),2023-2025,persons_minor_injury,54,count
+13,Accidents Classified According to Road Direction 2023-2025,RHS (towards HYD),2023-2025,persons_total,156,count
+13,Accidents Classified According to Road Direction 2023-2025,LHS (towards BLR),2023-2025,accidents_fatal,24,count
+13,Accidents Classified According to Road Direction 2023-2025,LHS (towards BLR),2023-2025,accidents_grievous_injury,35,count
+13,Accidents Classified According to Road Direction 2023-2025,LHS (towards BLR),2023-2025,accidents_minor_injury,27,count
+13,Accidents Classified According to Road Direction 2023-2025,LHS (towards BLR),2023-2025,accidents_no_injury,19,count
+13,Accidents Classified According to Road Direction 2023-2025,LHS (towards BLR),2023-2025,accidents_total,105,count
+13,Accidents Classified According to Road Direction 2023-2025,LHS (towards BLR),2023-2025,persons_killed,29,count
+13,Accidents Classified According to Road Direction 2023-2025,LHS (towards BLR),2023-2025,persons_grievous_injury,52,count
+13,Accidents Classified According to Road Direction 2023-2025,LHS (towards BLR),2023-2025,persons_minor_injury,42,count
+13,Accidents Classified According to Road Direction 2023-2025,LHS (towards BLR),2023-2025,persons_total,123,count
+13,Accidents Classified According to Road Direction 2023-2025,Total,2023-2025,accidents_fatal,56,count
+13,Accidents Classified According to Road Direction 2023-2025,Total,2023-2025,accidents_grievous_injury,79,count
+13,Accidents Classified According to Road Direction 2023-2025,Total,2023-2025,accidents_minor_injury,63,count
+13,Accidents Classified According to Road Direction 2023-2025,Total,2023-2025,accidents_no_injury,47,count
+13,Accidents Classified According to Road Direction 2023-2025,Total,2023-2025,accidents_total,245,count
+13,Accidents Classified According to Road Direction 2023-2025,Total,2023-2025,persons_killed,63,count
+13,Accidents Classified According to Road Direction 2023-2025,Total,2023-2025,persons_grievous_injury,120,count
+13,Accidents Classified According to Road Direction 2023-2025,Total,2023-2025,persons_minor_injury,96,count
+13,Accidents Classified According to Road Direction 2023-2025,Total,2023-2025,persons_total,279,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Motorized Two Wheeler,2023-2025,accidents_fatal,28,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Motorized Two Wheeler,2023-2025,accidents_grievous_injury,30,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Motorized Two Wheeler,2023-2025,accidents_minor_injury,18,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Motorized Two Wheeler,2023-2025,accidents_no_injury,16,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Motorized Two Wheeler,2023-2025,accidents_total,92,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Motorized Two Wheeler,2023-2025,persons_killed,35,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Motorized Two Wheeler,2023-2025,persons_grievous_injury,39,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Motorized Two Wheeler,2023-2025,persons_minor_injury,25,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Motorized Two Wheeler,2023-2025,persons_total,99,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Auto Rickshaw,2023-2025,accidents_fatal,3,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Auto Rickshaw,2023-2025,accidents_grievous_injury,4,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Auto Rickshaw,2023-2025,accidents_minor_injury,3,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Auto Rickshaw,2023-2025,accidents_no_injury,2,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Auto Rickshaw,2023-2025,accidents_total,12,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Auto Rickshaw,2023-2025,persons_killed,3,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Auto Rickshaw,2023-2025,persons_grievous_injury,5,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Auto Rickshaw,2023-2025,persons_minor_injury,4,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Auto Rickshaw,2023-2025,persons_total,12,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Car/Jeep/Van/Taxi,2023-2025,accidents_fatal,9,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Car/Jeep/Van/Taxi,2023-2025,accidents_grievous_injury,14,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Car/Jeep/Van/Taxi,2023-2025,accidents_minor_injury,11,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Car/Jeep/Van/Taxi,2023-2025,accidents_no_injury,9,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Car/Jeep/Van/Taxi,2023-2025,accidents_total,43,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Car/Jeep/Van/Taxi,2023-2025,persons_killed,11,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Car/Jeep/Van/Taxi,2023-2025,persons_grievous_injury,18,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Car/Jeep/Van/Taxi,2023-2025,persons_minor_injury,17,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Car/Jeep/Van/Taxi,2023-2025,persons_total,46,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Bus,2023-2025,accidents_fatal,4,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Bus,2023-2025,accidents_grievous_injury,5,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Bus,2023-2025,accidents_minor_injury,3,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Bus,2023-2025,accidents_no_injury,3,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Bus,2023-2025,accidents_total,15,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Bus,2023-2025,persons_killed,5,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Bus,2023-2025,persons_grievous_injury,7,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Bus,2023-2025,persons_minor_injury,6,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Bus,2023-2025,persons_total,18,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Truck/Lorry,2023-2025,accidents_fatal,17,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Truck/Lorry,2023-2025,accidents_grievous_injury,15,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Truck/Lorry,2023-2025,accidents_minor_injury,9,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Truck/Lorry,2023-2025,accidents_no_injury,7,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Truck/Lorry,2023-2025,accidents_total,48,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Truck/Lorry,2023-2025,persons_killed,12,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Truck/Lorry,2023-2025,persons_grievous_injury,15,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Truck/Lorry,2023-2025,persons_minor_injury,10,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Truck/Lorry,2023-2025,persons_total,37,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Tempo/Ace,2023-2025,accidents_fatal,3,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Tempo/Ace,2023-2025,accidents_grievous_injury,4,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Tempo/Ace,2023-2025,accidents_minor_injury,3,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Tempo/Ace,2023-2025,accidents_no_injury,2,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Tempo/Ace,2023-2025,accidents_total,12,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Tempo/Ace,2023-2025,persons_killed,4,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Tempo/Ace,2023-2025,persons_grievous_injury,5,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Tempo/Ace,2023-2025,persons_minor_injury,4,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Tempo/Ace,2023-2025,persons_total,13,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Bicycle,2023-2025,accidents_fatal,2,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Bicycle,2023-2025,accidents_grievous_injury,2,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Bicycle,2023-2025,accidents_minor_injury,2,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Bicycle,2023-2025,accidents_no_injury,1,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Bicycle,2023-2025,accidents_total,7,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Bicycle,2023-2025,persons_killed,2,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Bicycle,2023-2025,persons_grievous_injury,2,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Bicycle,2023-2025,persons_minor_injury,2,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Bicycle,2023-2025,persons_total,6,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Tractor Trailer,2023-2025,accidents_fatal,1,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Tractor Trailer,2023-2025,accidents_grievous_injury,2,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Tractor Trailer,2023-2025,accidents_minor_injury,1,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Tractor Trailer,2023-2025,accidents_no_injury,1,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Tractor Trailer,2023-2025,accidents_total,5,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Tractor Trailer,2023-2025,persons_killed,1,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Tractor Trailer,2023-2025,persons_grievous_injury,2,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Tractor Trailer,2023-2025,persons_minor_injury,1,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Tractor Trailer,2023-2025,persons_total,4,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Others,2023-2025,accidents_fatal,2,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Others,2023-2025,accidents_grievous_injury,3,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Others,2023-2025,accidents_minor_injury,2,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Others,2023-2025,accidents_no_injury,2,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Others,2023-2025,accidents_total,9,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Others,2023-2025,persons_killed,2,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Others,2023-2025,persons_grievous_injury,3,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Others,2023-2025,persons_minor_injury,2,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Others,2023-2025,persons_total,6,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Total,2023-2025,accidents_fatal,69,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Total,2023-2025,accidents_grievous_injury,79,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Total,2023-2025,accidents_minor_injury,52,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Total,2023-2025,accidents_no_injury,43,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Total,2023-2025,accidents_total,245,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Total,2023-2025,persons_killed,75,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Total,2023-2025,persons_grievous_injury,95,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Total,2023-2025,persons_minor_injury,109,count
+14,Accidents Classified According to Type of Impacting Vehicle 2023-2025,Total,2023-2025,persons_total,279,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Motorized Two Wheeler,2023-2025,accidents_fatal,27,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Motorized Two Wheeler,2023-2025,accidents_grievous_injury,30,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Motorized Two Wheeler,2023-2025,accidents_minor_injury,18,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Motorized Two Wheeler,2023-2025,accidents_no_injury,17,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Motorized Two Wheeler,2023-2025,accidents_total,92,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Motorized Two Wheeler,2023-2025,persons_killed,36,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Motorized Two Wheeler,2023-2025,persons_grievous_injury,40,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Motorized Two Wheeler,2023-2025,persons_minor_injury,26,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Motorized Two Wheeler,2023-2025,persons_total,102,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Auto Rickshaw,2023-2025,accidents_fatal,3,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Auto Rickshaw,2023-2025,accidents_grievous_injury,3,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Auto Rickshaw,2023-2025,accidents_minor_injury,3,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Auto Rickshaw,2023-2025,accidents_no_injury,2,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Auto Rickshaw,2023-2025,accidents_total,11,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Auto Rickshaw,2023-2025,persons_killed,3,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Auto Rickshaw,2023-2025,persons_grievous_injury,6,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Auto Rickshaw,2023-2025,persons_minor_injury,4,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Auto Rickshaw,2023-2025,persons_total,13,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Car/Jeep/Van/Taxi,2023-2025,accidents_fatal,9,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Car/Jeep/Van/Taxi,2023-2025,accidents_grievous_injury,14,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Car/Jeep/Van/Taxi,2023-2025,accidents_minor_injury,11,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Car/Jeep/Van/Taxi,2023-2025,accidents_no_injury,10,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Car/Jeep/Van/Taxi,2023-2025,accidents_total,44,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Car/Jeep/Van/Taxi,2023-2025,persons_killed,10,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Car/Jeep/Van/Taxi,2023-2025,persons_grievous_injury,20,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Car/Jeep/Van/Taxi,2023-2025,persons_minor_injury,19,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Car/Jeep/Van/Taxi,2023-2025,persons_total,49,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Bus,2023-2025,accidents_fatal,4,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Bus,2023-2025,accidents_grievous_injury,5,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Bus,2023-2025,accidents_minor_injury,4,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Bus,2023-2025,accidents_no_injury,3,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Bus,2023-2025,accidents_total,16,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Bus,2023-2025,persons_killed,6,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Bus,2023-2025,persons_grievous_injury,9,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Bus,2023-2025,persons_minor_injury,7,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Bus,2023-2025,persons_total,22,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Truck/Lorry,2023-2025,accidents_fatal,17,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Truck/Lorry,2023-2025,accidents_grievous_injury,15,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Truck/Lorry,2023-2025,accidents_minor_injury,9,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Truck/Lorry,2023-2025,accidents_no_injury,7,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Truck/Lorry,2023-2025,accidents_total,48,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Truck/Lorry,2023-2025,persons_killed,22,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Truck/Lorry,2023-2025,persons_grievous_injury,22,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Truck/Lorry,2023-2025,persons_minor_injury,14,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Truck/Lorry,2023-2025,persons_total,58,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Tempo/Ace,2023-2025,accidents_fatal,4,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Tempo/Ace,2023-2025,accidents_grievous_injury,4,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Tempo/Ace,2023-2025,accidents_minor_injury,3,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Tempo/Ace,2023-2025,accidents_no_injury,2,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Tempo/Ace,2023-2025,accidents_total,13,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Tempo/Ace,2023-2025,persons_killed,4,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Tempo/Ace,2023-2025,persons_grievous_injury,6,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Tempo/Ace,2023-2025,persons_minor_injury,5,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Tempo/Ace,2023-2025,persons_total,15,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Bicycle,2023-2025,accidents_fatal,3,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Bicycle,2023-2025,accidents_grievous_injury,2,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Bicycle,2023-2025,accidents_minor_injury,1,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Bicycle,2023-2025,accidents_no_injury,1,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Bicycle,2023-2025,accidents_total,7,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Bicycle,2023-2025,persons_killed,3,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Bicycle,2023-2025,persons_grievous_injury,3,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Bicycle,2023-2025,persons_minor_injury,2,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Bicycle,2023-2025,persons_total,8,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Tractor Trailer,2023-2025,accidents_fatal,2,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Tractor Trailer,2023-2025,accidents_grievous_injury,2,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Tractor Trailer,2023-2025,accidents_minor_injury,1,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Tractor Trailer,2023-2025,accidents_no_injury,1,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Tractor Trailer,2023-2025,accidents_total,6,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Tractor Trailer,2023-2025,persons_killed,2,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Tractor Trailer,2023-2025,persons_grievous_injury,2,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Tractor Trailer,2023-2025,persons_minor_injury,3,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Tractor Trailer,2023-2025,persons_total,7,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Others,2023-2025,accidents_fatal,2,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Others,2023-2025,accidents_grievous_injury,3,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Others,2023-2025,accidents_minor_injury,2,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Others,2023-2025,accidents_no_injury,1,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Others,2023-2025,accidents_total,8,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Others,2023-2025,persons_killed,1,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Others,2023-2025,persons_grievous_injury,2,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Others,2023-2025,persons_minor_injury,2,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Others,2023-2025,persons_total,5,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Total,2023-2025,accidents_fatal,71,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Total,2023-2025,accidents_grievous_injury,78,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Total,2023-2025,accidents_minor_injury,52,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Total,2023-2025,accidents_no_injury,44,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Total,2023-2025,accidents_total,245,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Total,2023-2025,persons_killed,87,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Total,2023-2025,persons_grievous_injury,110,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Total,2023-2025,persons_minor_injury,82,count
+15,Accidents Classified According to Type of Impacted Vehicle 2023-2025,Total,2023-2025,persons_total,279,count
+16,Accidents Classified According to Type of Junction 2023-2025,T Junction,2023-2025,accidents_fatal,10,count
+16,Accidents Classified According to Type of Junction 2023-2025,T Junction,2023-2025,accidents_grievous_injury,42,count
+16,Accidents Classified According to Type of Junction 2023-2025,T Junction,2023-2025,accidents_minor_injury,26,count
+16,Accidents Classified According to Type of Junction 2023-2025,T Junction,2023-2025,accidents_no_injury,19,count
+16,Accidents Classified According to Type of Junction 2023-2025,T Junction,2023-2025,accidents_total,97,count
+16,Accidents Classified According to Type of Junction 2023-2025,T Junction,2023-2025,persons_killed,15,count
+16,Accidents Classified According to Type of Junction 2023-2025,T Junction,2023-2025,persons_grievous_injury,62,count
+16,Accidents Classified According to Type of Junction 2023-2025,T Junction,2023-2025,persons_minor_injury,39,count
+16,Accidents Classified According to Type of Junction 2023-2025,T Junction,2023-2025,persons_total,116,count
+16,Accidents Classified According to Type of Junction 2023-2025,Y Junction,2023-2025,accidents_fatal,4,count
+16,Accidents Classified According to Type of Junction 2023-2025,Y Junction,2023-2025,accidents_grievous_injury,17,count
+16,Accidents Classified According to Type of Junction 2023-2025,Y Junction,2023-2025,accidents_minor_injury,9,count
+16,Accidents Classified According to Type of Junction 2023-2025,Y Junction,2023-2025,accidents_no_injury,10,count
+16,Accidents Classified According to Type of Junction 2023-2025,Y Junction,2023-2025,accidents_total,40,count
+16,Accidents Classified According to Type of Junction 2023-2025,Y Junction,2023-2025,persons_killed,5,count
+16,Accidents Classified According to Type of Junction 2023-2025,Y Junction,2023-2025,persons_grievous_injury,22,count
+16,Accidents Classified According to Type of Junction 2023-2025,Y Junction,2023-2025,persons_minor_injury,13,count
+16,Accidents Classified According to Type of Junction 2023-2025,Y Junction,2023-2025,persons_total,40,count
+16,Accidents Classified According to Type of Junction 2023-2025,Four Arm Junction,2023-2025,accidents_fatal,7,count
+16,Accidents Classified According to Type of Junction 2023-2025,Four Arm Junction,2023-2025,accidents_grievous_injury,25,count
+16,Accidents Classified According to Type of Junction 2023-2025,Four Arm Junction,2023-2025,accidents_minor_injury,14,count
+16,Accidents Classified According to Type of Junction 2023-2025,Four Arm Junction,2023-2025,accidents_no_injury,7,count
+16,Accidents Classified According to Type of Junction 2023-2025,Four Arm Junction,2023-2025,accidents_total,53,count
+16,Accidents Classified According to Type of Junction 2023-2025,Four Arm Junction,2023-2025,persons_killed,9,count
+16,Accidents Classified According to Type of Junction 2023-2025,Four Arm Junction,2023-2025,persons_grievous_injury,36,count
+16,Accidents Classified According to Type of Junction 2023-2025,Four Arm Junction,2023-2025,persons_minor_injury,21,count
+16,Accidents Classified According to Type of Junction 2023-2025,Four Arm Junction,2023-2025,persons_total,66,count
+16,Accidents Classified According to Type of Junction 2023-2025,Staggered Junction,2023-2025,accidents_fatal,3,count
+16,Accidents Classified According to Type of Junction 2023-2025,Staggered Junction,2023-2025,accidents_grievous_injury,11,count
+16,Accidents Classified According to Type of Junction 2023-2025,Staggered Junction,2023-2025,accidents_minor_injury,4,count
+16,Accidents Classified According to Type of Junction 2023-2025,Staggered Junction,2023-2025,accidents_no_injury,3,count
+16,Accidents Classified According to Type of Junction 2023-2025,Staggered Junction,2023-2025,accidents_total,21,count
+16,Accidents Classified According to Type of Junction 2023-2025,Staggered Junction,2023-2025,persons_killed,3,count
+16,Accidents Classified According to Type of Junction 2023-2025,Staggered Junction,2023-2025,persons_grievous_injury,14,count
+16,Accidents Classified According to Type of Junction 2023-2025,Staggered Junction,2023-2025,persons_minor_injury,6,count
+16,Accidents Classified According to Type of Junction 2023-2025,Staggered Junction,2023-2025,persons_total,23,count
+16,Accidents Classified According to Type of Junction 2023-2025,Roundabout,2023-2025,accidents_fatal,4,count
+16,Accidents Classified According to Type of Junction 2023-2025,Roundabout,2023-2025,accidents_grievous_injury,19,count
+16,Accidents Classified According to Type of Junction 2023-2025,Roundabout,2023-2025,accidents_minor_injury,7,count
+16,Accidents Classified According to Type of Junction 2023-2025,Roundabout,2023-2025,accidents_no_injury,4,count
+16,Accidents Classified According to Type of Junction 2023-2025,Roundabout,2023-2025,accidents_total,34,count
+16,Accidents Classified According to Type of Junction 2023-2025,Roundabout,2023-2025,persons_killed,5,count
+16,Accidents Classified According to Type of Junction 2023-2025,Roundabout,2023-2025,persons_grievous_injury,19,count
+16,Accidents Classified According to Type of Junction 2023-2025,Roundabout,2023-2025,persons_minor_injury,10,count
+16,Accidents Classified According to Type of Junction 2023-2025,Roundabout,2023-2025,persons_total,34,count
+16,Accidents Classified According to Type of Junction 2023-2025,Total,2023-2025,accidents_fatal,28,count
+16,Accidents Classified According to Type of Junction 2023-2025,Total,2023-2025,accidents_grievous_injury,114,count
+16,Accidents Classified According to Type of Junction 2023-2025,Total,2023-2025,accidents_minor_injury,60,count
+16,Accidents Classified According to Type of Junction 2023-2025,Total,2023-2025,accidents_no_injury,43,count
+16,Accidents Classified According to Type of Junction 2023-2025,Total,2023-2025,accidents_total,245,count
+16,Accidents Classified According to Type of Junction 2023-2025,Total,2023-2025,persons_killed,37,count
+16,Accidents Classified According to Type of Junction 2023-2025,Total,2023-2025,persons_grievous_injury,153,count
+16,Accidents Classified According to Type of Junction 2023-2025,Total,2023-2025,persons_minor_injury,89,count
+16,Accidents Classified According to Type of Junction 2023-2025,Total,2023-2025,persons_total,279,count
