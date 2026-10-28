@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SafeRoute — Road Safety Intelligence
 
 A Streamlit project that explores the accident case summaries in data/accident_ppt_summary.csv and uses a Python Random Forest model to estimate accident severity.
@@ -20,3 +21,6 @@ The Random Forest is trained on grouped PowerPoint counts, weighted by the repor
     python -m streamlit run app.py --server.port 8507
 
 Open http://localhost:8507 in your browser.
+=======
+# accident_prediction
+>>>>>>> bb19ce922dd0a3953f4ca4c7c8be2c4c0531adac
