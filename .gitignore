@@ -1,0 +1,10 @@
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+*.joblib
+models/
+reports/
+.vscode/
+*.zip
+.streamlit/secrets.toml
